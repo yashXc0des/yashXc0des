@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on flutter  , anything related to it
 - 📫 How to reach me yashxcodes@gmail.com
 - 😄 Pronouns: Batman
-- ⚡ Fun fact: coding is really fun , just do it daily , and fuck it will beexiting
+- ⚡ Fun fact: coding is really fun , just do it daily , and fuck it will be exciting 
 
 <!---
 yashXc0des/yashXc0des is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
