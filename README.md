@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm <YOUR NAME> </h1>
 
 <p align="center">
-  🚀 Passionate Flutter Developer • 💙 Dart & Firebase Enthusiast • 🌐 Laravel Explorer
+  🚀 Passionate  Developer • 💙 Dart & Firebase Enthusiast • 🌐 Laravel Explorer
 </p>
 
 <p align="center">
