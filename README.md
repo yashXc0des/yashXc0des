@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
 
-# 👋 Hey, I'm Yash Parashar
+# 👋 Im Batman 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=05A049&center=true&vCenter=true&width=700&lines=SDE-2+%7C+Full+Stack+Engineer;React+Native+%2B+Flutter+Architect;Node.js+%7C+Spring+Boot+%7C+Laravel;AI+%2F+ML+Engineer+%7C+RAG+Systems;Building+Scalable+Fintech+Platforms" />
 
