@@ -55,10 +55,10 @@ currently_building:
 
 * Flutter
 * React Native
-* Riverpod
-* Bloc
-* GetX
-* Firebase
+* Node.js
+* Java
+* AWS
+* Python
 
 ---
 
